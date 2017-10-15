@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.images {
+  margin: 5px;
+  padding:1px;
+  border:1px solid #021a40;
+  background-color:#ff0;
+}
